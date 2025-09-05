@@ -34,8 +34,6 @@ The model is built using **Logistic Regression** and evaluated with multiple met
 - ROC–AUC Curve shows good separation between classes.  
 - Feature importance highlights key medical factors influencing predictions.  
 
----
-
 ## 🚀 How to Run
 1. Clone the repository:
    ```bash
